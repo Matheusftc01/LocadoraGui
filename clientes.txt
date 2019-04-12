@@ -1,0 +1,4 @@
+Nome: Miguelzera CPF: 4 Endereco: Rua_004 telefone: 231 divida: 0.0
+Nome: Viniceba CPF: 3 Endereco: Rua_003 telefone: 213 divida: 0.0
+Nome: Bruneba CPF: 2 Endereco: Rua_002 telefone: 321 divida: 20.0
+Nome: Linder CPF: 288 Endereco: rua_2 telefone: 111 divida: 0.0

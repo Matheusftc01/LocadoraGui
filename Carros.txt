@@ -1,0 +1,4 @@
+Placa: aaa Modelo: land Descrição: novo Observações: carro_vermelho Disponibilidade: true Km: 1000.0 Taxa_diaria: 350.0 Taxa_Km: 20.0 Ano: 2018
+Placa: zxy01 Modelo: Uno Descrição: novo Observações: Branco Disponibilidade: false Km: 1000.0 Taxa_diaria: 20.0 Taxa_Km: 4.0 Ano: 2013
+Placa: abc01 Modelo: camaro Descrição: novo Observações: amarelo Disponibilidade: true Km: 10.0 Taxa_diaria: 50.0 Taxa_Km: 10.0 Ano: 2019
+Placa: 45fD2 Modelo: Saveiro Descrição: Branca Observações: nova Disponibilidade: true Km: 100.0 Taxa_diaria: 100.0 Taxa_Km: 10.0 Ano: 2019
