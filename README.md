@@ -8,3 +8,5 @@ Trabalho que implementa um interface gráfica para uma locadora
   <img src="img/carro.png" width="350" title="carro">
   <img src="img/aluguel.png" width="350" title="aluguel">
 </p>
+
+
